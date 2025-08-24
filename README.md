@@ -1,2 +1,5 @@
-# Clean-Coders-
-Github repo of the web app and blockchain based solutions
+# Firebase Studio
+
+This is a NextJS starter in Firebase Studio.
+
+To get started, take a look at src/app/page.tsx.
