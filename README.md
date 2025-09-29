@@ -1,5 +1,3 @@
-# Firebase Studio
+# JanaVedhi
 
-This is a NextJS starter in Firebase Studio.
-
-To get started, take a look at src/app/page.tsx.
+JanaVedhi is a unified digital governance platform that empowers citizens through transparency, participation, and accountability. It allows people to track public fund allocation and spending with interactive visualizations, participate in budget voting to express their priorities on proposed projects, and submit grievances that are mapped onto a Kerala-wide heatmap for better issue management. A custom RAG-powered Legal & RTI chatbot supports both English and Malayalam, offering instant, reliable guidance and accessibility through speech-to-text input. Beyond participatory budgeting, JanaVedhi introduces a custom blockchain-based smart contract voting system designed for real election voting, ensuring tamper-proof, transparent, and verifiable elections at scale. With additional features like ward-level digital sabhas and multilingual inclusivity, JanaVedhi reimagines governance by combining AI, blockchain, and civic technology to rebuild trust between citizens and their representatives.
