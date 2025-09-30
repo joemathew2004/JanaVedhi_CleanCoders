@@ -12,14 +12,14 @@
 - **Know Your Politicians** – Track promises, fund usage, and performance of elected officials.
 
 🗳️ Participation
-Budget Voting System – Citizens upvote/downvote proposed budgets and projects (1 citizen = 1 vote).
-Blockchain-based Voting (Smart Contract) – Custom contract for real election voting, ensuring tamper-proof, transparent, and verifiable polls.
-Ward-Level Forums (Digital Grama Sabha) – Local community discussions and decision-making.
+- Budget Voting System – Citizens upvote/downvote proposed budgets and projects (1 citizen = 1 vote).
+- Blockchain-based Voting (Smart Contract) – Custom contract for real election voting, ensuring tamper-proof, transparent, and verifiable polls.
+- Ward-Level Forums (Digital Grama Sabha) – Local community discussions and decision-making.
 
 📢 Accountability
-Digital Grievance System – Submit and track issues with status updates.
-Grievance Heatmap (Kerala Map) – Visualize hotspots of civic issues across regions.
-Real-time Notifications – Project updates, grievance status, and civic alerts.
+-Digital Grievance System – Submit and track issues with status updates.
+-Grievance Heatmap (Kerala Map) – Visualize hotspots of civic issues across regions.
+-Real-time Notifications – Project updates, grievance status, and civic alerts.
 
 🤖 AI Assistance
 RAG-powered Legal & RTI Chatbot – Multilingual (English + Malayalam) chatbot for legal queries, RTI drafting, and general help.
