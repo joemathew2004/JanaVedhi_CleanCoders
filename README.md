@@ -19,10 +19,8 @@
 - **Law Enforcement & Policy Support** – Offers data-driven insights for policymaking.
   
 🔎 Transparency
-
-Public Fund Tracker – Interactive visualizations of fund allocation & spending.
-
-Know Your Politicians – Track promises, fund usage, and performance of elected officials.
+- **Public Fund Tracker** – Interactive visualizations of fund allocation & spending.
+- **Know Your Politicians** – Track promises, fund usage, and performance of elected officials.
 
 🗳️ Participation
 
