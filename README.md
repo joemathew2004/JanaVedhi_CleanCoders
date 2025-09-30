@@ -7,17 +7,6 @@
 *a 36-hour national-level hackathon themed “Kerala Reimagined” hosted by IEEE MACE SB*
 
 ## 🚀 Features  
-- **Role-Based Login** - Four unique user roles with tailored functionalities:
-    * Recovery Members
-    * Law Enforcement Officers
-    * Youth Volunteers / Family / Caregivers
-    * Health Experts
-- **Personalized Recovery Plans** – Tailored strategies based on user needs.  
-- **24/7 AI Chatbot** – Provides real-time guidance and emotional support.  
-- **Community Connection** – Connects users with support groups and professionals.  
-- **Real-Time Risk Assessment** – Identifies high-risk individuals for proactive intervention.  
-- **Law Enforcement & Policy Support** – Offers data-driven insights for policymaking.
-  
 🔎 Transparency
 - **Public Fund Tracker** – Interactive visualizations of fund allocation & spending.
 - **Know Your Politicians** – Track promises, fund usage, and performance of elected officials.
